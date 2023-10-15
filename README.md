@@ -11,7 +11,7 @@ The culinary domain, especially in the context of seasonal menu curation, is inc
              Profit = (Selling Price - Cost Price) * Quantity Sold
 
 
-**Results**: Through this analytical prism, the **Avocado Chicken Bowl** emerges as a standout, commanding a selling price of $12.50, yielding a substantial total profit of $1,125.00. It's an exemplary case of menu engineering that significantly contributes to the restaurant's bottom line.
+**Results**: Through this analytical prism, the **Avocado Chicken Bowl** emerges as a standout, commanding a selling price of € 12.50, yielding a substantial total profit of $1,125.00. It's an exemplary case of menu engineering that significantly contributes to the restaurant's bottom line.
 
 ## Analysis 2: Customer Segmentation
 
