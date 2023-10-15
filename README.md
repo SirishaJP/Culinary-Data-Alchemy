@@ -11,7 +11,7 @@ The culinary domain, especially in the context of seasonal menu curation, is inc
              Profit = (Selling Price - Cost Price) * Quantity Sold
 
 
-**Results**: Through this analytical prism, the **Avocado Chicken Bowl** emerges as a standout, commanding a selling price of € 12.50, yielding a substantial total profit of $1,125.00. It's an exemplary case of menu engineering that significantly contributes to the restaurant's bottom line.
+**Results**: Through this analytical prism, the **Avocado Chicken Bowl** emerges as a standout, commanding a selling price of € 12.50, yielding a substantial total profit of € 1,125.00. It's an exemplary case of menu engineering that significantly contributes to the restaurant's bottom line.
 
 ## Analysis 2: Customer Segmentation
 
@@ -21,9 +21,9 @@ The culinary domain, especially in the context of seasonal menu curation, is inc
 
 **Results**: The outcomes of our segmentation reveal three primary customer segments, each offering a unique lens into patronage. We distinguish:
 
-- **Segment 0 (Low Spend Customers)**: With an average age of 30, they contribute an average of $22 to the restaurant's revenue.
-- **Segment 1 (Medium Spend Customers)**: An older demographic with an average age of 40, this group provides an average spending of $30.
-- **Segment 2 (High Spend Customers)**: With an average age of 48, this demographic yields a substantial average spending of $40.
+- **Segment 0 (Low Spend Customers)**: With an average age of 30, they contribute an average of € 22 to the restaurant's revenue.
+- **Segment 1 (Medium Spend Customers)**: An older demographic with an average age of 40, this group provides an average spending of € 30.
+- **Segment 2 (High Spend Customers)**: With an average age of 48, this demographic yields a substantial average spending of € 40.
 
 ## Analysis 3: Time Series Trends
 
