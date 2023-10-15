@@ -13,6 +13,9 @@ The culinary domain, especially in the context of seasonal menu curation, is inc
 
 **Results**: Through this analytical prism, the **Avocado Chicken Bowl** emerges as a standout, commanding a selling price of € 12.50, yielding a substantial total profit of € 1,125.00. It's an exemplary case of menu engineering that significantly contributes to the restaurant's bottom line.
 
+<img width="963" alt="Screenshot 2023-10-15 at 18 03 20" src="https://github.com/SirishaJP/Culinary-Data-Alchemy/assets/104147973/dbff4e2b-153b-4ead-971e-da06a6ea77a3">
+
+
 ## Analysis 2: Customer Segmentation
 
 **Objective**: To categorize patrons into distinct segments, defined by demographic and spending characteristics, enabling tailored marketing strategies.
@@ -25,6 +28,9 @@ The culinary domain, especially in the context of seasonal menu curation, is inc
 - **Segment 1 (Medium Spend Customers)**: An older demographic with an average age of 40, this group provides an average spending of € 30.
 - **Segment 2 (High Spend Customers)**: With an average age of 48, this demographic yields a substantial average spending of € 40.
 
+<img width="647" alt="Screenshot 2023-10-15 at 18 04 00" src="https://github.com/SirishaJP/Culinary-Data-Alchemy/assets/104147973/eeb7f6c9-8b45-49e5-bb37-5a38f2263288">
+
+
 ## Analysis 3: Time Series Trends
 
 **Objective**: To decode temporal trends in sales and customer count, furnishing insights for optimized resource allocation.
@@ -33,6 +39,10 @@ The culinary domain, especially in the context of seasonal menu curation, is inc
 
 **Results**: Our findings uncover the cyclicality of sales and customer counts, culminating in peak performances during the winter months. These temporal insights offer a roadmap for resource allocation optimization.
 
+<img width="920" alt="Screenshot 2023-10-15 at 18 04 24" src="https://github.com/SirishaJP/Culinary-Data-Alchemy/assets/104147973/2872588a-9dfb-4f99-9fc2-8ff0ca4f06a2">
+
+
+
 ## Analysis 4: A/B Testing (T-Test)
 
 **Objective**: To empirically validate the impact of menu changes on sales, underpinned by statistical rigor.
@@ -40,6 +50,9 @@ The culinary domain, especially in the context of seasonal menu curation, is inc
 **Methodology**: In the tradition of hypothesis testing, we frame a null hypothesis (H0) positing no significant difference in sales between the old menu (Group A) and the new warm menu (Group B). A t-test is employed to rigorously analyze the total revenue of these groups.
 
 **Results**: Our t-test yields a t-statistic of -2.4305594055372253 and a p-value of 0.031700105639650575. In the realm of statistics, these results unequivocally lead to the rejection of the null hypothesis (H0). The new warm menu (Group B) unmistakably outperforms the old menu (Group A) in terms of sales.
+
+<img width="790" alt="Screenshot 2023-10-15 at 18 04 44" src="https://github.com/SirishaJP/Culinary-Data-Alchemy/assets/104147973/43a3aa91-080f-4e91-8477-1506e2c20b80">
+
 
 ## Conclusion
 
