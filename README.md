@@ -1,6 +1,6 @@
 # Data-Driven Insights for Seasonal Menu Alchemy: Profits, Segmentation, Trends, and Testing
 
-The culinary domain, especially in the context of seasonal menu curation, is increasingly defined by data-driven precision and innovation. In this comprehensive project, we embark on an in-depth exploration of a hypothetical restaurant enterprise, where the primary objective is to achieve the pinnacle of menu optimization. Our journey spans a rich landscape of sophisticated data analyses, including profitability assessments, customer segmentation, time series investigations, and robust A/B testing. Through advanced data science methodologies, we aim to extract profound insights and refine the art of Seasonal Menu Alchemy.
+The culinary domain, especially in the context of seasonal menu curation, is increasingly defined by data-driven precision and innovation. In this comprehensive project, we embark on an in-depth exploration of a hypothetical restaurant enterprise, where the primary objective is to achieve the pinnacle of menu optimization. Our journey spans a rich landscape of sophisticated data analyses, including profitability assessments, customer segmentation, time series investigations, robust A/B testing and Optimizing Shift Scheduling. Through advanced data science methodologies, we aim to extract profound insights and refine the art of Seasonal Menu Alchemy.
 
 ## Analysis 1: Profitability Analysis
 
@@ -53,7 +53,7 @@ The culinary domain, especially in the context of seasonal menu curation, is inc
 
 <img width="790" alt="Screenshot 2023-10-15 at 18 04 44" src="https://github.com/SirishaJP/Culinary-Data-Alchemy/assets/104147973/43a3aa91-080f-4e91-8477-1506e2c20b80">
 
-## Automating Employee's Shift Scheduling 
+## Analysis 5:  Automating Employee's Shift Scheduling 
 
 **Objective** In today's fast-paced business environment, efficient scheduling is crucial. The use of data science in scheduling, particularly for staffing in industries like hospitality, healthcare, and retail, brings a new level of precision and optimization. Data science-driven scheduling systems analyze vast amounts of data to make informed decisions, balancing employee preferences, legal constraints, and organizational needs.
 
