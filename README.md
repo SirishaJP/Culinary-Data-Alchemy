@@ -59,25 +59,25 @@ The culinary domain, especially in the context of seasonal menu curation, is inc
 
 **Methodology: Incorporating Constraints and Preferences**
 
-#### Employee Preferences
+###### Employee Preferences
 
 Personalized Schedules: By taking into account employee availability and preferences (e.g., preferred shifts, days off), the system fosters a more satisfied and productive workforce.
 
 Fair Allocation: Data-driven algorithms ensure fair distribution of desirable and less desirable shifts, reducing potential conflicts and improving morale.
 
-#### Scheduling Limitations
+###### Scheduling Limitations
 
 Legal Compliance: The system adheres to legal constraints, such as mandatory rest periods and maximum working hours, thus avoiding potential legal issues.
 
 Operational Efficiency: By considering factors like peak hours, required skill sets, and shift overlaps, the system optimizes for efficient operations.
 
-#### Company Requirements
+###### Company Requirements
 
 Customization: The system can be tailored to accommodate specific company policies or operational needs, such as minimum staffing levels or special events.
 
 Adaptability: It can quickly adapt to changes, like sudden employee absences or fluctuating demand, maintaining operational continuity.
 
-####  Advantages of Using This System
+######  Advantages of Using This System
 
 Optimized Staffing: Ensures the right number of employees with the right skills are scheduled at the right times.
 
@@ -89,7 +89,7 @@ Data-Driven Decisions: Leverages historical data for forecasting and planning, i
 
 Scalability: Easily scales to accommodate business growth or seasonal fluctuations.
 
-#### Technical Rationale for Using Linear Programming
+###### Technical Rationale for Using Linear Programming
 
 Linear programming (LP) is ideal for scheduling due to its efficiency in handling large-scale, complex problems with multiple constraints. It offers several technical advantages:
 
