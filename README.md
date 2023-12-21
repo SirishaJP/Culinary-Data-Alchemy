@@ -112,6 +112,6 @@ The final scheduling code effectively balanced employee preferences with operati
 
 The data-driven journey encapsulated in this project, under the banner of Seasonal Menu Alchemy, is a testament to the power of mathematical precision and analytical acumen. Our exploration of profitability, customer segmentation, time series trends, and A/B testing provides profound insights for restaurant management.By integrating linear programming in employee scheduling, we've optimized workforce management, ensuring that every meal is crafted by the ideal team at the perfect moment.
 
-Note: The data employed in this project is entirely hypothetical, designed to ensure privacy and data security.
+****Note: The data employed in this project is entirely hypothetical, designed to ensure privacy and data security.*****
 
 In the realm of Seasonal Menu Alchemy, we witness the harmonious fusion of data science and culinary artistry, where analytics guides decision-making and elevates the dining experience to new heights. This synergy not only enhances operational efficiency but also tailors the culinary experience to meet evolving customer preferences. This project stands as a beacon, showcasing the limitless possibilities when data science is applied thoughtfully in the culinary world, paving the way for future innovations that blend technology with the art of gastronomy.
