@@ -80,9 +80,13 @@ Adaptability: It can quickly adapt to changes, like sudden employee absences or 
 ####  Advantages of Using This System
 
 Optimized Staffing: Ensures the right number of employees with the right skills are scheduled at the right times.
+
 Time and Cost Efficiency: Reduces the administrative burden of manual scheduling, leading to cost savings.
+
 Employee Satisfaction: Respects employee preferences and promotes work-life balance, leading to lower turnover rates.
+
 Data-Driven Decisions: Leverages historical data for forecasting and planning, improving overall decision-making.
+
 Scalability: Easily scales to accommodate business growth or seasonal fluctuations.
 
 #### Technical Rationale for Using Linear Programming
