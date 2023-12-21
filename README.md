@@ -101,6 +101,7 @@ Predictability: Provides consistent, repeatable outcomes, essential for operatio
 
 The final scheduling code effectively balanced employee preferences with operational needs, creating an optimized weekly roster that ensures each shift is adequately staffed. This result demonstrates the power of data-driven scheduling in enhancing both operational efficiency and employee satisfaction.
 
+![Figure_1](https://github.com/SirishaJP/Culinary-Data-Alchemy/assets/104147973/abcb831d-af79-49d2-97a7-cbee5a4a898d)
 
 
 ## Conclusion
